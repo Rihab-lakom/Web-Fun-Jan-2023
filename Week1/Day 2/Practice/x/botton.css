@@ -1,0 +1,30 @@
+.riri{
+    background-color: aqua;
+}
+.btna{
+    border-radius: 20px;
+    color:aquamarine;
+    border-color: aquamarine;
+    height: 30px;
+    width: 80px;
+
+} 
+.btn{
+    border-radius: 50%;
+    background-color: aquamarine;
+    color: white;
+    border-color: aquamarine;
+    height: 30px;
+    width: 30px;
+}
+.botton{
+    margin: 10px;
+}
+.bt{
+    border: black,solid,40px;
+    background-color: blue;
+    color: white;
+    height: 40px;
+    width: 150px;
+    box-shadow: 8px 8px 2px 1px black;
+}
