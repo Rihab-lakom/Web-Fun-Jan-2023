@@ -1,0 +1,25 @@
+.row {
+    display: flex;
+    flex-shrink: 100%;
+    width: 100%;
+}
+
+.col {
+    background-color: rgb(101, 157, 161);
+    flex: 1;
+    margin: 60px;
+    height: 70px;
+    
+}
+.col-2{
+    background-color: rgb(101, 157, 161);
+    flex: 2;
+    margin: 60px;
+    height: 70px;
+}
+.col-3{
+    background-color: rgb(101, 157, 161);
+    flex: 3;
+    margin: 60px;
+    height: 70px;
+}
