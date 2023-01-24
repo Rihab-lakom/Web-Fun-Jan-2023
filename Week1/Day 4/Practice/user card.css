@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.box{
+    width: 40%;
+    height: fit-content;
+    background-color: whitesmoke;
+    margin: 100px auto;
+
+}
+.header{
+    background-color: rgb(23,162,184);
+    height: 100px;
+    padding-left: 30px;
+}
+.pic{
+    width:80px;
+    margin-top: 60px;
+
+}
+.map{
+    width:10px;
+}
+.gr{
+    width: 15px
+
+}
+.body{
+    padding: 20px;
+    margin-top: 30px;
+}
